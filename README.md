@@ -68,3 +68,15 @@ Histogram of average marks.
 Pie chart of department distribution.
 Bar chart of department performance.
 Scatter plot of attendance vs average marks.
+
+
+                               OUTPUT
+
+<img width="562" height="468" alt="image" src="https://github.com/user-attachments/assets/f477e1b5-4f82-4959-9c09-c002a69d7a5f" />
+
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/0c522f1b-4a94-4d4f-81de-1932b6db0f90" />
+
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/ff1299a2-66d3-41ce-bd02-71830e7dc937" />
+
+<img width="390" height="411" alt="image" src="https://github.com/user-attachments/assets/b2c928c0-4c1f-4124-bfc0-5a023502a900" />
+
